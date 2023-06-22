@@ -1,1 +1,5 @@
-crated this feature file for developer in dev branch
+crated this feature file for dev-1 in dev branch
+
+dev-2 came and added some valuable changes in feat file
+
+dev-2 next day ala ani ze kahi gadabad keli te fixed out kela 
