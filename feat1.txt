@@ -2,4 +2,6 @@ This is my feat1 file from master
 
 something added from production side first time
 
-something changes on code from server side 
+something changes on code from server side
+
+dev-2 added some valuable changes  
